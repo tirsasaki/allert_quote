@@ -1,0 +1,33 @@
+<div style="
+    background-color: #fff3cd;
+    border-left: 5px solid #ffc107;
+    border-radius: 4px;
+    padding: 15px 20px;
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+">
+    <div style="
+        margin-right: 15px;
+        color: #856404;
+        font-size: 24px;
+    ">
+        ⚠️
+    </div>
+    <div>
+        <p style="
+            margin: 0;
+            color: #856404;
+            font-weight: bold;
+            font-size: 16px;
+        ">
+Verify Iso File        </p>
+        <p style="
+            margin: 5px 0 0;
+            color: #666;
+            font-size: 14px;
+        ">
+If you want to verify the installer file, you can visit this page        </p>
+    </div>
+</div>
